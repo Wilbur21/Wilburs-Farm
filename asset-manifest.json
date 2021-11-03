@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Wilburs-Farm/static/css/main.61101190.chunk.css",
-    "main.js": "/Wilburs-Farm/static/js/main.8a36bfc0.chunk.js",
-    "main.js.map": "/Wilburs-Farm/static/js/main.8a36bfc0.chunk.js.map",
+    "main.js": "/Wilburs-Farm/static/js/main.4c20c8de.chunk.js",
+    "main.js.map": "/Wilburs-Farm/static/js/main.4c20c8de.chunk.js.map",
     "runtime-main.js": "/Wilburs-Farm/static/js/runtime-main.e1465599.js",
     "runtime-main.js.map": "/Wilburs-Farm/static/js/runtime-main.e1465599.js.map",
     "static/js/2.4d3e9c3a.chunk.js": "/Wilburs-Farm/static/js/2.4d3e9c3a.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/Wilburs-Farm/index.html",
     "static/css/main.61101190.chunk.css.map": "/Wilburs-Farm/static/css/main.61101190.chunk.css.map",
     "static/js/2.4d3e9c3a.chunk.js.LICENSE.txt": "/Wilburs-Farm/static/js/2.4d3e9c3a.chunk.js.LICENSE.txt",
-    "static/media/1.75f03515.png": "/Wilburs-Farm/static/media/1.75f03515.png",
+    "static/media/1.3ea31c4b.png": "/Wilburs-Farm/static/media/1.3ea31c4b.png",
     "static/media/reset.css": "/Wilburs-Farm/static/media/PressStart2P-Regular.f2341734.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.e1465599.js",
     "static/js/2.4d3e9c3a.chunk.js",
     "static/css/main.61101190.chunk.css",
-    "static/js/main.8a36bfc0.chunk.js"
+    "static/js/main.4c20c8de.chunk.js"
   ]
 }
